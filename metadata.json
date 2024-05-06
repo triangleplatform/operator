@@ -2,6 +2,6 @@
   "name": "triangleplatform",
   "website": "https://www.triangleplatform.com",
   "description": "triangle platform infra",
-  "logo": "https://github.com/triangleplatform/operator/blob/main/triangle-logomark.png",
+  "logo": "https://raw.githubusercontent.com/triangleplatform/operator/main/triangle-logomark.png",
   "twitter": ""
 }
